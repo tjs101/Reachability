@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary  = '苹果官方Reachability.'
   s.license  = 'MIT'
   s.source   = { :git => 'https://github.com/tjs101/Reachability.git', :tag => s.version.to_s }
-  s.source_files = '*.{h,m}'
+  s.source_files = 'Reachability/*.{h,m}'
   s.platform = :ios
   s.ios.deployment_target = '8.0'
   s.requires_arc = true
