@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'Reachability'
-  s.version  = '1.0.0'
+  s.version  = '1.0.1'
   s.author   = { 'Quentin' => 'tjs101@live.cn' }
   s.homepage = 'https://github.com/tjs101/Reachability'
   s.summary  = '苹果官方Reachability.'
